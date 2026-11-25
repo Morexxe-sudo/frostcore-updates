@@ -1,0 +1,17 @@
+{
+ "manifests": {
+  "win": [
+   "https://raw.githubusercontent.com/Morexxe-sudo/frostcore-updates/main/manifest-win.json",
+   "https://cdn.jsdelivr.net/gh/Morexxe-sudo/frostcore-updates@main/manifest-win.json"
+  ],
+  "win7": [
+   "https://raw.githubusercontent.com/Morexxe-sudo/frostcore-updates/main/manifest-win7.json",
+   "https://cdn.jsdelivr.net/gh/Morexxe-sudo/frostcore-updates@main/manifest-win7.json"
+  ],
+  "linux": [
+   "https://raw.githubusercontent.com/Morexxe-sudo/frostcore-updates/main/manifest-linux.json",
+   "https://cdn.jsdelivr.net/gh/Morexxe-sudo/frostcore-updates@main/manifest-linux.json"
+  ]
+ },
+ "page": "https://github.com/Morexxe-sudo/frostcore-updates/releases"
+}
