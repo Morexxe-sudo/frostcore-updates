@@ -1,0 +1,18 @@
+{
+ "version": "2.22.0",
+ "notes": [
+  "Apply keeps your own edits: the AI's change is fitted around what you typed, and you choose when both changed the same line",
+  "The assistant writes long programs and whole files without cutting them short, and you can apply several files at once",
+  "Long code in the chat is easier to read: line numbers, wrapped lines that stay indented, and an Open wide view",
+  "Paste or drop a screenshot into the chat for models that can see",
+  "See your program steps: slower, with a speed control, a sentence for each step, and click a line to jump there",
+  "Updates are small now: only the files that changed are downloaded, checked and put in place"
+ ],
+ "base": "https://github.com/Morexxe-sudo/frostcore-updates/releases/download/v2.22.0/",
+ "packs": [],
+ "full": {
+  "url": "https://github.com/Morexxe-sudo/frostcore-updates/releases/download/v2.22.0/FROSTCORE-2.22.0-Win7-Setup.exe",
+  "size": 345196613,
+  "sha256": "9ff60772e9494226a336ddf56322dd631ed506f814d24f6493773d644342cdbf"
+ }
+}
